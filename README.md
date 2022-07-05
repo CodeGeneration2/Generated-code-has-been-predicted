@@ -11,9 +11,9 @@ We give [the results of 3 times code generation in the E-code 350M model](https:
 
 
 ## GPT-Neo 125M
-We give [the case results of one code generation for the GPT-Neo 125M model](https://github.com/CodeGeneration2/Generated-code-has-been-predicted/tree/main/Generated-code-has-been-predicted).
+We give [the case results of one code generation for the GPT-Neo 125M model](https://github.com/CodeGeneration2/Generated-code-has-been-predicted/tree/main/Generated-code-has-been-predicted/GPT-Neo%20125M).
 
 
 ## No expert group E-code 350M
-We give [the case results of one code generation for the no expert group E-code 350M model](https://github.com/CodeGeneration2/Generated-code-has-been-predicted/tree/main/Generated-code-has-been-predicted).
+We give [the case results of one code generation for the no expert group E-code 350M model](https://github.com/CodeGeneration2/Generated-code-has-been-predicted/tree/main/Generated-code-has-been-predicted/No%20expert%20group%20E-code%20350M).
 
